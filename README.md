@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Kayque Leotério
 
-**`Desenvolvedor Full-Stack`** **`GC26`** **`Residencia Full Stack`** **`Residencia em TIC55`** 
+**`Desenvolvedor Full-Stack`** **`GC26`** **`Residencia Full-Stack`** **`Residencia em TIC55`** 
 
 Me chamo Kayque Leotério, tenho 21 anos e sou natural do Rio Grande do Sul. Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSul e gosto muito de tecnologia. Busco aumentar meu conhecimento cada vez mais através de desafios e projetos pessoais, que estão públicos para acesso aqui no Github.
 
