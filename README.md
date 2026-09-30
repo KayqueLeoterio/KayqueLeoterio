@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack`** **`GC26`** **`Residencia Full-Stack`** **`Residencia em TIC55`** 
 
-Me chamo Kayque Leotério, tenho 21 anos e sou natural do Rio Grande do Sul. Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSul e gosto muito de tecnologia. Busco aumentar meu conhecimento cada vez mais através de desafios e projetos pessoais, que estão públicos para acesso aqui no Github.
+Me chamo Kayque Leotério, tenho 22 anos e sou natural do Rio Grande do Sul. Sou graduando em Análise e Desenvolvimento de Sistemas pelo IFSul e gosto muito de tecnologia. Busco aumentar meu conhecimento cada vez mais através de desafios e projetos pessoais, que estão públicos para acesso aqui no Github.
 
 
 
@@ -90,14 +90,7 @@ Me chamo Kayque Leotério, tenho 21 anos e sou natural do Rio Grande do Sul. Sou
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -106,14 +99,7 @@ Me chamo Kayque Leotério, tenho 21 anos e sou natural do Rio Grande do Sul. Sou
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+
 
 <img 
     align="left" 
