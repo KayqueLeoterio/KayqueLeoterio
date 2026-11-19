@@ -84,6 +84,14 @@ Me chamo Kayque Leotério, tenho 22 anos e sou natural do Rio Grande do Sul. Sou
 />
 <img 
     align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Tailwind CSS" 
     title="Tailwind CSS"
     width="30px" 
